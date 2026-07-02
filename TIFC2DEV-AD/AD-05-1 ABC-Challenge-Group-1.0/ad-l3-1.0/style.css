@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+/* color de fondo gris */
+body {
+    background-color: #e0e0e0bd; 
+}
+
+/*  h3 sea de color verde */
+h3 {
+    color: green;
+}
+
+/* aplicar el color azul a tres h3 */
+.texto-azul {
+    color: blue;
+}
+
+/*  un h3 sea de color rojo */
+#texto-rojo {
+    color: red;
+}

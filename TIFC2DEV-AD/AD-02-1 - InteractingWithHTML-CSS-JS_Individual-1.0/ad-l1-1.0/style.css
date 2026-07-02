@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  /* Hace todos los H1 verdes por defecto */
+h1 {
+    color: green;
+}
+
+/* Aplica el color azul a los que tengan la clase "blue" */
+.blue {
+    color: blue;
+}
+
+/* Aplica el color rojo al que tenga el ID "red" */
+#red {
+    color: red;
+}

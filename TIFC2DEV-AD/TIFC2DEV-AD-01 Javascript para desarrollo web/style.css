@@ -1,0 +1,18 @@
+/* Hola, este es un comentario. */
+h1{
+    color:darkgreen;
+}
+
+h2{
+    color:blue;
+}
+
+#texto{
+    color:red;
+}
+
+button{
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}

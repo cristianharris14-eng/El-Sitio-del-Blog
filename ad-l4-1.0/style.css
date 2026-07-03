@@ -3,3 +3,21 @@ html {
     width: 100%;
   }
   
+
+h3 {
+  color: #4169e1;
+}
+
+.imagen{
+  text-align: center;
+}
+
+.destino {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  background-color: red;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 30px;
+}

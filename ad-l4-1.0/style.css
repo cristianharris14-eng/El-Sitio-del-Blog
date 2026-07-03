@@ -8,6 +8,10 @@ h3 {
   color: #4169e1;
 }
 
+.texto {
+  flex: 1;
+}
+
 .imagen{
   text-align: center;
 }

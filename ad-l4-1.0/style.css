@@ -1,5 +1,45 @@
-html {
-    height: 100%;
-    width: 100%;
-  }
-  
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding-top: 60px; 
+}
+
+nav {
+  background-color: #3a5a40;
+  position: fixed; 
+  top: 0;
+  width: 100%;
+  height: 50px;
+}
+
+.logo {
+  color: white;
+  float: left;
+  line-height: 50px;
+  padding-left: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu {
+  float: right;
+  list-style: none;
+  margin: 0;
+  padding-right: 20px;
+}
+
+.menu li {
+  display: inline; 
+  line-height: 50px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  padding: 0 10px;
+}
+
+.menu a:hover {
+  color: #dad7cd; 
+}

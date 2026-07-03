@@ -2,6 +2,28 @@ html {
     height: 100%;
     width: 100%;
   }
+h2{
+    font-size: 50px;
+    font-family: "Courier New", Courier, monospace;
+    color: #344E41;
+  }
+li{
+    font-family: "Courier New", Courier, monospace;
+    color: #3A5A40;
+  }
+p{
+    font-family:Impact, sans-serif;
+    color: #588157;
+  }
+a{
+    font-family: Tahoma, sans-serif; 
+    color:#A3B18A;
+}
+body{
+    background-color: #DAD7CD;
+    
+   
+}
   
 
 h3 {
